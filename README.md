@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**mdakram9465-stack/mdakram9465-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm MD AKRAM 👋
 
-Here are some ideas to get you started:
+### MCA Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing my Master of Computer Applications (MCA)
+and working towards becoming a skilled Software Developer.
+
+### 🚀 About Me
+- 🎓 MCA Student at New Horizon College of Engineering
+- 💻 Interested in Software Development
+- 🌱 Currently learning Java, Python, SQL and DSA
+- 🔨 Building real-world software development projects
+- 🎯 Preparing for Software Developer placements
+
+### 🛠️ Tech Stack
+- Languages: Java, Python, C
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+### 📌 Current Goals
+- Solve coding problems regularly
+- Build full-stack applications
+- Learn Data Structures and Algorithms
+- Contribute to meaningful projects
+
+### 📫 Connect With Me
+- LinkedIn:www.linkedin.com/in/md-akram-638a8a303
+
